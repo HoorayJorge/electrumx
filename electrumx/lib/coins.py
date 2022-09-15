@@ -3022,13 +3022,5 @@ class Garlicoin(Coin):
     RPC_PORT = 42068
     REORG_LIMIT = 800
     PEERS = [
-        'us.node.garlico.in s',
-        'ca.node.garlico.in s t',
-        'sg.node.garlico.in s',
-        'de.node.garlico.in s',
-        'fr.garlium.crapules.org s',
-        'uk.garlium.crapules.org s',
-        'pl.garlium.crapules.org s',
-        'ca.garlium.crapules.org s',
-        'au.garlium.crapules.org s'
+        'ie.node.garlico.in s',
     ]
